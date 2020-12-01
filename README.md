@@ -22,6 +22,9 @@ Pre-releases available via NuGet
 BasicGUI provides a simple, panel-based GUI system for C#.NET console applications.
 
 ### Completed Features
+Basic Grid | Complete
+Window Console Driver (WindowWriter) | In Progress
+
 ### Status
 ### Contact
 
