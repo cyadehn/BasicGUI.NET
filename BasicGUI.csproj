@@ -2,6 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>Cya.BasicGUI</AssemblyName>
+    <PackageVersion>1.1.0-alpha</PackageVersion>
+    <Authors>Christopher Dehner</Authors>
   </PropertyGroup>
 
 </Project>
